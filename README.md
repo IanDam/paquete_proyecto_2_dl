@@ -1,2 +1,2 @@
 # paquete_proyecto_2_dl
-Pquete que permite realizar calculos estaditicos
+Paquete que permite realizar calculos estaditicos
